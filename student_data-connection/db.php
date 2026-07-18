@@ -11,8 +11,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
 
 // ডাটাবেজ ক্রেডেনশিয়ালস
 $host     = '127.0.0.1'; // 'localhost' এর বদলে '127.0.0.1' লাইভ হোস্টিংয়ে বেশি স্ট্যাবল
-$dbname   = 'u398502275_StudentData';
-$username = 'u398502275_studentdata';
+$dbname   = 'u398502275_school_data';
+$username = 'u398502275_students';
 $password = 'Cisfa1998$#@';
 
 try {
